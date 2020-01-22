@@ -1,0 +1,3173 @@
+[
+    {
+        "id": 4809512,
+        "name": "Mission Bay Beach",
+        "lat": -36.84718064739901,
+        "lng": 174.83134650699276,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 1.0472972972972974,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "shops_nearby",
+            "wheelchair_accessible_beach",
+            "recycling_facilities",
+            "public_transport"
+        ],
+        "region": "easternbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829352,
+        "name": "Armour Bay",
+        "lat": -36.97528656125453,
+        "lng": 174.61926722752008,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 109.7224645062467,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829353,
+        "name": "Army Bay",
+        "lat": -36.60127726106039,
+        "lng": 174.81343726030534,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 8.0,
+            "recordedAt": null
+        },
+        "tags": [
+            "criteria_model"
+        ],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "shower",
+            "toilet_block",
+            "picnic_area",
+            "onsite_camping",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829354,
+        "name": "Beach Haven",
+        "lat": -36.79034024473344,
+        "lng": 174.67944710895358,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 8.83358539999999,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchair_accessible_beach",
+            "public_transport",
+            "parking"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829355,
+        "name": "Bethells Beach",
+        "lat": -36.898964340398734,
+        "lng": 174.44417872571765,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 15.84526749457812,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "west",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "09/12/2019",
+                    "toPeriod": "21/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "10/04/2020",
+                    "toPeriod": "13/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "27/10/2019",
+                    "toPeriod": "01/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                },
+                {
+                    "fromPeriod": "07/12/2019",
+                    "toPeriod": "23/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                },
+                {
+                    "fromPeriod": "29/02/2020",
+                    "toPeriod": "12/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829356,
+        "name": "Bethells Lagoon",
+        "lat": -36.89118300624087,
+        "lng": 174.44512063263173,
+        "isPermanent": true,
+        "permanentWaterQuality": 600,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water"
+        ],
+        "features": [],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829357,
+        "name": "Little Bucklands",
+        "lat": -36.87234948760544,
+        "lng": 174.9050653770918,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 7.69328999999999,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "toilet_block",
+            "shops_nearby",
+            "shower",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "public_transport"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829358,
+        "name": "Big Manly",
+        "lat": -36.627874065946266,
+        "lng": 174.76013534475015,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 91.83661626518929,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829359,
+        "name": "Blockhouse Bay",
+        "lat": -36.92979149565155,
+        "lng": 174.70079144616795,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 45.293299999999995,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "changing_facilities",
+            "toilet_block",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829360,
+        "name": "Browns Bay",
+        "lat": -36.71451003737007,
+        "lng": 174.7499964515136,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 166.00243145240762,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "public_transport"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829361,
+        "name": "Castor Bay",
+        "lat": -36.7605449063201,
+        "lng": 174.76812574634528,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 267.4998785981198,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "shower",
+            "parking",
+            "public_transport",
+            "wheelchair_accessible_beach",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829362,
+        "name": "Christmas Beach",
+        "lat": -36.77701596226997,
+        "lng": 174.6589885467113,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 241.27345515439825,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829363,
+        "name": "Clarks",
+        "lat": -37.13634512518072,
+        "lng": 174.69160318255877,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 357.5436824861395,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "playground",
+            "toilet_block"
+        ],
+        "region": "southmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829364,
+        "name": "Cockle Bay",
+        "lat": -36.90091224972796,
+        "lng": 174.95224836925797,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 40.712385,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "shower",
+            "wheelchair_accessible_beach",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829365,
+        "name": "Cornwallis Beach",
+        "lat": -37.005242680072456,
+        "lng": 174.60367411832345,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "parking",
+            "toilet_block",
+            "shower",
+            "picnic_area"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829366,
+        "name": "Eastern",
+        "lat": -36.87308769222121,
+        "lng": 174.91409224871654,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 20.375849999999996,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "playground",
+            "shower",
+            "toilet_block",
+            "shops_nearby",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "public_transport"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829367,
+        "name": "Fosters Bay",
+        "lat": -37.004622785516524,
+        "lng": 174.57390166207134,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "picnic_area"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829368,
+        "name": "French Bay",
+        "lat": -36.949118334665584,
+        "lng": 174.66567775146942,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 410.34209999999996,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "parking",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829369,
+        "name": "Granny's Bay",
+        "lat": -36.930711712723706,
+        "lng": 174.75401837944275,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "picnic_area"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829370,
+        "name": "Green Bay",
+        "lat": -36.931984763290174,
+        "lng": 174.68984836419762,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "parking",
+            "wheelchair_accessible_beach",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829371,
+        "name": "Hatfields",
+        "lat": -36.567860242305436,
+        "lng": 174.69483141226056,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "parking",
+            "public_transport"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829372,
+        "name": "Herne Bay",
+        "lat": -36.84381863842491,
+        "lng": 174.72781877110845,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 244.28571428571428,
+            "recordedAt": null
+        },
+        "tags": [
+            "combined_overflow"
+        ],
+        "features": [
+            "picnic_area",
+            "shower",
+            "toilet_block"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829373,
+        "name": "Home Bay",
+        "lat": -36.84135592527093,
+        "lng": 174.73291069956213,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 171.66666666666669,
+            "recordedAt": null
+        },
+        "tags": [
+            "combined_overflow"
+        ],
+        "features": [
+            "picnic_area",
+            "toilet_block",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829374,
+        "name": "Howick",
+        "lat": -36.892795388398326,
+        "lng": 174.94211060994036,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "toilet_block",
+            "shower",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829375,
+        "name": "Huia Beach",
+        "lat": -37.00084649343494,
+        "lng": 174.57183468948236,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 362.94492950780307,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchair_accessible_beach",
+            "wheelchaid_accessible_toilets",
+            "public_transport"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829376,
+        "name": "Judges Bay",
+        "lat": -36.8492655607557,
+        "lng": 174.78915490478903,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 78.77610000000004,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "parking",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "swimming_pontoon",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "easternbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829377,
+        "name": "Karekare Beach",
+        "lat": -36.98862706294535,
+        "lng": 174.471064122225,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 15.905342147451897,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [],
+        "region": "west",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "16/12/2019",
+                    "toPeriod": "07/02/2020",
+                    "fromTime": "10:00 AM",
+                    "toTime": "06:00 PM"
+                },
+                {
+                    "fromPeriod": "10/04/2020",
+                    "toPeriod": "13/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "27/10/2019",
+                    "toPeriod": "01/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                },
+                {
+                    "fromPeriod": "07/12/2019",
+                    "toPeriod": "23/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                },
+                {
+                    "fromPeriod": "29/02/2020",
+                    "toPeriod": "12/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829378,
+        "name": "Karekare Stream",
+        "lat": -36.98643924420375,
+        "lng": 174.47884220244913,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 434.8246706621285,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water"
+        ],
+        "features": [
+            "parking",
+            "toilet_block"
+        ],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829379,
+        "name": "Karekare Lagoon",
+        "lat": -36.98728940899832,
+        "lng": 174.47426311153257,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 269.04827155996105,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water"
+        ],
+        "features": [],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829380,
+        "name": "Kawakawa Bay",
+        "lat": -36.94925760622358,
+        "lng": 175.1559496804243,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block"
+        ],
+        "region": "southeast",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829381,
+        "name": "Kohimarama Beach",
+        "lat": -36.849721188631705,
+        "lng": 174.8436720991062,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 4.134615384615384,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "public_transport",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "easternbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829382,
+        "name": "Laingholm Beach",
+        "lat": -36.96668562580796,
+        "lng": 174.6417303348669,
+        "isPermanent": false,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 173.87619099999998,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "shops_nearby",
+            "toilet_block",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829383,
+        "name": "Lake Pupuke",
+        "lat": -36.78251033310683,
+        "lng": 174.76087607665178,
+        "isPermanent": false,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 6.0,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water",
+            "criteria_model"
+        ],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "bbq",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829384,
+        "name": "Lake Wainamu",
+        "lat": -36.889781904852164,
+        "lng": 174.4682335206927,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water"
+        ],
+        "features": [
+            "parking",
+            "toilet_block"
+        ],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829385,
+        "name": "Big Bucklands",
+        "lat": -36.86445607524562,
+        "lng": 174.90042726155752,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 111.1168,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "picnic_area",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829386,
+        "name": "Little Manly",
+        "lat": -36.63659577602722,
+        "lng": 174.76281672032107,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 237.32426299999997,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "public_transport"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829387,
+        "name": "Little Oneroa",
+        "lat": -36.78434837176891,
+        "lng": 175.01789763840594,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 16.596746,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "shops_nearby",
+            "shower",
+            "public_transport",
+            "recycling_facilities"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829388,
+        "name": "Long Bay",
+        "lat": -36.687987695067605,
+        "lng": 174.75211476207036,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 23.488928742084767,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "parking",
+            "playground",
+            "shower",
+            "toilet_block",
+            "picnic_area",
+            "shops_nearby",
+            "life_guards",
+            "onsite_camping",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "lifesaving_equipment",
+            "public_transport"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "07/02/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "21/12/2019",
+                    "toPeriod": "09/02/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829389,
+        "name": "Mairangi Bay",
+        "lat": -36.73646580776476,
+        "lng": 174.75560155080998,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 77.14321299999999,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "bbq",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "shops_nearby",
+            "shower",
+            "changing_facilities",
+            "life_guards",
+            "first_aid_station",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "03/01/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "06:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "27/10/2019",
+                    "toPeriod": "01/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                },
+                {
+                    "fromPeriod": "07/12/2019",
+                    "toPeriod": "23/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "06:00 PM"
+                },
+                {
+                    "fromPeriod": "29/02/2020",
+                    "toPeriod": "29/03/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829390,
+        "name": "Mangere Bridge",
+        "lat": -36.93866779672597,
+        "lng": 174.779038135271,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 18.435237935868415,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "public_transport"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829391,
+        "name": "Maraetai Beach",
+        "lat": -36.879951046660565,
+        "lng": 175.04316409859794,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 20.507902179304942,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "southeast",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829392,
+        "name": "Matakatia Bay",
+        "lat": -36.62441353987022,
+        "lng": 174.77345346574924,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 40.942435,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "shower",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829393,
+        "name": "Mellons Bay",
+        "lat": -36.88372652352213,
+        "lng": 174.93115440039227,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 121.57438259999998,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829394,
+        "name": "Milford",
+        "lat": -36.76534179196514,
+        "lng": 174.7674068697024,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 47.02236885733652,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829395,
+        "name": "Milford South",
+        "lat": -36.77134350746745,
+        "lng": 174.77354999799599,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 170.129807,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "picnic_area"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829397,
+        "name": "Mulberry Grove",
+        "lat": -36.31197590115483,
+        "lng": 175.49358871318046,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 11.562677870312342,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "parking",
+            "boat_ramp",
+            "playground",
+            "picnic_area",
+            "toilet_block"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829398,
+        "name": "Narrow Neck",
+        "lat": -36.81275346858864,
+        "lng": 174.80219376000068,
+        "isPermanent": false,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 12.0,
+            "recordedAt": null
+        },
+        "tags": [
+            "criteria_model"
+        ],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "shops_nearby",
+            "shower",
+            "recycling_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "public_transport"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829399,
+        "name": "Okahu Bay",
+        "lat": -36.85068476149515,
+        "lng": 174.8162173645012,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 3.9473684210526314,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "swimming_pontoon",
+            "shower",
+            "boat_ramp",
+            "playground",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "public_transport"
+        ],
+        "region": "easternbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829400,
+        "name": "Okupu",
+        "lat": -36.258913562248644,
+        "lng": 175.43736920354388,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "toilet_block"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829401,
+        "name": "Omana beach",
+        "lat": -36.87656892396509,
+        "lng": 175.03384084553113,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 98.87013429532266,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block"
+        ],
+        "region": "southeast",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829402,
+        "name": "Oneroa",
+        "lat": -36.78140573157895,
+        "lng": 175.01070528402352,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 20.705669999999998,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "playground",
+            "toilet_block",
+            "changing_facilities",
+            "picnic_area",
+            "first_aid_station",
+            "lifesaving_equipment",
+            "parking",
+            "recycling_facilities",
+            "shower"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829403,
+        "name": "Onetangi",
+        "lat": -36.786995073459515,
+        "lng": 175.07567668345234,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 10.0,
+            "recordedAt": null
+        },
+        "tags": [
+            "criteria_model"
+        ],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "picnic_area",
+            "toilet_block",
+            "shops_nearby",
+            "changing_facilities",
+            "parking",
+            "public_transport"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829404,
+        "name": "Orere Point",
+        "lat": -36.95711091371591,
+        "lng": 175.23997209901216,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block"
+        ],
+        "region": "southeast",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829405,
+        "name": "Orewa",
+        "lat": -36.584575602042655,
+        "lng": 174.6964822199393,
+        "isPermanent": false,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 5.1367939445205195,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "recycling_facilities",
+            "shops_nearby",
+            "life_guards",
+            "onsite_camping"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "16/12/2019",
+                    "toPeriod": "20/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "24/01/2020",
+                    "fromTime": "10:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "28/01/2020",
+                    "toPeriod": "28/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "27/10/2019",
+                    "toPeriod": "15/03/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "06:00 PM"
+                },
+                {
+                    "fromPeriod": "21/03/2020",
+                    "toPeriod": "12/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829406,
+        "name": "Oruarangi Creek",
+        "lat": -36.978556980738325,
+        "lng": 174.7623624185419,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 63.22884,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "picnic_area",
+            "toilet_block",
+            "parking",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829407,
+        "name": "Pah",
+        "lat": -36.30119499200686,
+        "lng": 175.4861479858948,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 142.6965108,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "toilet_block",
+            "picnic_area"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829408,
+        "name": "Palm",
+        "lat": -36.7799812510263,
+        "lng": 175.04350923251926,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 4.714829999999999,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "parking",
+            "picnic_area",
+            "playground",
+            "shower",
+            "toilet_block",
+            "shops_nearby",
+            "public_transport",
+            "recycling_facilities",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829409,
+        "name": "North Piha Beach",
+        "lat": -36.94084355964828,
+        "lng": 174.46101547331887,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 11.591083975582904,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "shower",
+            "toilet_block",
+            "picnic_area",
+            "changing_facilities"
+        ],
+        "region": "west",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "09/12/2019",
+                    "toPeriod": "20/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "07/02/2020",
+                    "fromTime": "10:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "10/02/2020",
+                    "toPeriod": "21/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "10/04/2020",
+                    "toPeriod": "13/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "27/10/2019",
+                    "toPeriod": "01/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                },
+                {
+                    "fromPeriod": "07/12/2019",
+                    "toPeriod": "08/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                },
+                {
+                    "fromPeriod": "14/12/2019",
+                    "toPeriod": "23/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "06:00 PM"
+                },
+                {
+                    "fromPeriod": "29/02/2020",
+                    "toPeriod": "12/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829410,
+        "name": "North Piha Lagoon",
+        "lat": -36.94644138188698,
+        "lng": 174.46610853912284,
+        "isPermanent": true,
+        "permanentWaterQuality": 600,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water"
+        ],
+        "features": [],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829411,
+        "name": "Piha Beach",
+        "lat": -36.9559608976776,
+        "lng": 174.46675152848297,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 19.391641699999997,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "shower",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "west",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "02/12/2019",
+                    "toPeriod": "13/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "16/12/2019",
+                    "toPeriod": "07/02/2020",
+                    "fromTime": "10:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "10/02/2020",
+                    "toPeriod": "06/03/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "07:00 PM"
+                },
+                {
+                    "fromPeriod": "10/04/2020",
+                    "toPeriod": "13/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "27/10/2019",
+                    "toPeriod": "01/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                },
+                {
+                    "fromPeriod": "07/12/2019",
+                    "toPeriod": "23/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "06:00 PM"
+                },
+                {
+                    "fromPeriod": "29/02/2020",
+                    "toPeriod": "12/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829412,
+        "name": "Piha South Lagoon",
+        "lat": -36.95363211343441,
+        "lng": 174.46993019521415,
+        "isPermanent": true,
+        "permanentWaterQuality": 600,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water"
+        ],
+        "features": [
+            "bbq",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829413,
+        "name": "Point Chevalier",
+        "lat": -36.85511838579376,
+        "lng": 174.70180455648585,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 16.586538461538463,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "swimming_pontoon",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829414,
+        "name": "Point England",
+        "lat": -36.88247711643635,
+        "lng": 174.8735307415152,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 151.7722,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829415,
+        "name": "Red Beach",
+        "lat": -36.60529789856854,
+        "lng": 174.7103967661592,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 115.94705520000001,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "shops_nearby",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach",
+            "life_guards"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "07/02/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "21/12/2019",
+                    "toPeriod": "09/02/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 4829416,
+        "name": "Sandspit",
+        "lat": -37.23293372730326,
+        "lng": 174.7281166797269,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 12.0,
+            "recordedAt": null
+        },
+        "tags": [
+            "criteria_model"
+        ],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block"
+        ],
+        "region": "southmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829417,
+        "name": "Sandy Bay (Waiheke)",
+        "lat": -36.77974658893288,
+        "lng": 175.0293178311526,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 49.9902,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "picnic_area",
+            "toilet_block",
+            "parking",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829418,
+        "name": "St Heliers",
+        "lat": -36.849871753675714,
+        "lng": 174.85715651390137,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 29.958333333333332,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "shops_nearby",
+            "public_transport",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "easternbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829419,
+        "name": "St Marys Bay",
+        "lat": -36.84120728181589,
+        "lng": 174.74655674660903,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 80.97383720930233,
+            "recordedAt": null
+        },
+        "tags": [
+            "combined_overflow"
+        ],
+        "features": [],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829420,
+        "name": "Stanmore Bay",
+        "lat": -36.623362973512016,
+        "lng": 174.73647112791775,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 36.113836,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "shops_nearby",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829422,
+        "name": "Te Atatu Beach",
+        "lat": -36.83729787120789,
+        "lng": 174.6630136533785,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 250.27958939644046,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "toilet_block",
+            "wheelchair_accessible_beach",
+            "wheelchaid_accessible_toilets"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829423,
+        "name": "Taumanu Central",
+        "lat": -36.9263860277439,
+        "lng": 174.77399253190606,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 72.06655258585995,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "toilet_block",
+            "wheelchaid_accessible_toilets",
+            "picnic_area"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829424,
+        "name": "Taumanu East",
+        "lat": -36.92710696262349,
+        "lng": 174.77652163517575,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 194.78357708117207,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "toilet_block",
+            "boat_ramp",
+            "wheelchaid_accessible_toilets",
+            "picnic_area"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829425,
+        "name": "Taumanu West",
+        "lat": -36.92483008647155,
+        "lng": 174.7713519405986,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 31.21007406617766,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "toilet_block",
+            "boat_ramp",
+            "wheelchaid_accessible_toilets",
+            "picnic_area"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829426,
+        "name": "Titirangi Beach",
+        "lat": -36.951303200996925,
+        "lng": 174.65962717938177,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829427,
+        "name": "Umupuia Duders",
+        "lat": -36.90402411816619,
+        "lng": 175.0687095652282,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 80.1000744,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block"
+        ],
+        "region": "southeast",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829428,
+        "name": "Waiake Bay",
+        "lat": -36.70324275099713,
+        "lng": 174.7524610697646,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 10.976454313041533,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities",
+            "shower",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829429,
+        "name": "Waikowhai Bay",
+        "lat": -36.934409660662546,
+        "lng": 174.7379125429935,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 219.38412,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "bbq",
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829430,
+        "name": "Waiwera Beach",
+        "lat": -36.545911192854554,
+        "lng": 174.708729644436,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 6.0,
+            "recordedAt": null
+        },
+        "tags": [
+            "criteria_model"
+        ],
+        "features": [
+            "boat_ramp",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities",
+            "wheelchair_accessible_beach",
+            "wheelchaid_accessible_toilets",
+            "public_transport",
+            "shops_nearby"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 4829431,
+        "name": "Wood Bay",
+        "lat": -36.94427640861214,
+        "lng": 174.66515682178846,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": "northwestmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 7129705,
+        "name": "Wenderholm",
+        "lat": -36.532931608742835,
+        "lng": 174.712891419766,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "bbq",
+            "changing_facilities",
+            "boat_ramp",
+            "picnic_area"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "03/01/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "06:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "15/12/2018",
+                    "toPeriod": "20/01/2019",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 7129725,
+        "name": "Anchor Bay",
+        "lat": -36.36890496944325,
+        "lng": 174.84243015134177,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [],
+        "region": null,
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 7129726,
+        "name": "Goat Island",
+        "lat": -36.26997084600171,
+        "lng": 174.79616660536016,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [],
+        "region": null,
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 7129727,
+        "name": "Kendall Bay",
+        "lat": -36.82358714417361,
+        "lng": 174.7077075298164,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "picnic_area"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 7129728,
+        "name": "Omaha",
+        "lat": -36.33775361243351,
+        "lng": 174.780289073274,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "bbq",
+            "picnic_area",
+            "playground"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "16/12/2019",
+                    "toPeriod": "31/01/2020",
+                    "fromTime": "10:30 AM",
+                    "toTime": "06:30 PM"
+                },
+                {
+                    "fromPeriod": "13/04/2020",
+                    "toPeriod": "14/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "27/10/2019",
+                    "toPeriod": "01/12/2019",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                },
+                {
+                    "fromPeriod": "07/12/2019",
+                    "toPeriod": "23/02/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "05:00 PM"
+                },
+                {
+                    "fromPeriod": "29/02/2020",
+                    "toPeriod": "12/04/2020",
+                    "fromTime": "11:00 AM",
+                    "toTime": "04:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 7129729,
+        "name": "Tawharanui",
+        "lat": -36.3642747052791,
+        "lng": 174.82496043127742,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block"
+        ],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 7129730,
+        "name": "Cheltenham",
+        "lat": -36.82260070043636,
+        "lng": 174.80866070785825,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "playground",
+            "picnic_area",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 7129731,
+        "name": "Devonport Beach",
+        "lat": -36.831801044827415,
+        "lng": 174.79854231163972,
+        "isPermanent": true,
+        "permanentWaterQuality": 1,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "shops_nearby",
+            "changing_facilities",
+            "public_transport",
+            "parking",
+            "recycling_facilities",
+            "wheelchaid_accessible_toilets",
+            "wheelchair_accessible_beach"
+        ],
+        "region": null,
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 8121034,
+        "name": "Takapuna North",
+        "lat": -36.787275424945015,
+        "lng": 174.77580685148496,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 72.35456513509553,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "bbq",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "27/01/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "21/12/2019",
+                    "toPeriod": "26/01/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 8121036,
+        "name": "Takapuna",
+        "lat": -36.79130407662524,
+        "lng": 174.77933920277556,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 97.743879,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "changing_facilities",
+            "bbq",
+            "parking",
+            "playground",
+            "picnic_area",
+            "shower",
+            "toilet_block"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": {
+            "mondayToFriday": [
+                {
+                    "fromPeriod": "23/12/2019",
+                    "toPeriod": "27/01/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "saturdaySunday": [
+                {
+                    "fromPeriod": "21/12/2019",
+                    "toPeriod": "26/01/2020",
+                    "fromTime": "12:00 PM",
+                    "toTime": "07:00 PM"
+                }
+            ],
+            "isSLSPatrolled": true
+        },
+        "slspatrolled": true
+    },
+    {
+        "id": 8139867,
+        "name": "Weymouth South",
+        "lat": -37.05160852589264,
+        "lng": 174.85963174507424,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 141.520822552369,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area"
+        ],
+        "region": "southmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9239406,
+        "name": "Surfdale Beach",
+        "lat": -36.79473616973072,
+        "lng": 175.02446587765644,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 30.216299999999997,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area",
+            "playground"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9239407,
+        "name": "Onehunga Lagoon",
+        "lat": -36.923960665617955,
+        "lng": 174.77524172253015,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 29.808574412995725,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area",
+            "playground"
+        ],
+        "region": "northeastmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374906,
+        "name": "Soldiers Bay",
+        "lat": -36.81377069153118,
+        "lng": 174.6978074772028,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 83.7437656,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374907,
+        "name": "St Leonards Bay",
+        "lat": -36.79917452910995,
+        "lng": 174.79030834890045,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 20.26391,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374908,
+        "name": "Bayswater",
+        "lat": -36.81772901821631,
+        "lng": 174.76832610606922,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking"
+        ],
+        "region": "easternbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374909,
+        "name": "Little Shoal Bay",
+        "lat": -36.8164856306458,
+        "lng": 174.74042140020492,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 53.5856,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area",
+            "playground",
+            "boat_ramp",
+            "bbq"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374910,
+        "name": "Murrays Bay",
+        "lat": -36.73215738965043,
+        "lng": 174.75391596360532,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 0.0,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area",
+            "playground",
+            "boat_ramp"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374911,
+        "name": "Rothesay Bay",
+        "lat": -36.725626165182916,
+        "lng": 174.75458122026987,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 32.94459023466473,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area",
+            "playground",
+            "boat_ramp"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374912,
+        "name": "Weymouth West",
+        "lat": -37.05059803326166,
+        "lng": 174.8577471168078,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 186.2153882294886,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area"
+        ],
+        "region": "southmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9374913,
+        "name": "Thorne Bay",
+        "lat": -36.778145251037884,
+        "lng": 174.7769013491037,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 38.787763999999996,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking"
+        ],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433579,
+        "name": "Farm Cove",
+        "lat": -36.890856547591085,
+        "lng": 174.8800144745303,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 50.2438038,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area",
+            "playground",
+            "bbq",
+            "boat_ramp"
+        ],
+        "region": "east",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433580,
+        "name": "Magazine Bay",
+        "lat": -36.88427255915912,
+        "lng": 175.05710654700783,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 25.8864445,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "changing_facilities"
+        ],
+        "region": "southeast",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433581,
+        "name": "Sunkist Bay",
+        "lat": -36.8810387408968,
+        "lng": 174.9879786649983,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 47.1387002,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area",
+            "playground",
+            "boat_ramp",
+            "changing_facilities"
+        ],
+        "region": "southeast",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433582,
+        "name": "Meola Reef",
+        "lat": -36.857062802299836,
+        "lng": 174.70957394259665,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433583,
+        "name": "Cox's Bay",
+        "lat": -36.850843140149486,
+        "lng": 174.72440274046176,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "picnic_area"
+        ],
+        "region": "westernbays",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433584,
+        "name": "Little Oneroa Lagoon",
+        "lat": -36.784834109655336,
+        "lng": 175.0183485310008,
+        "isPermanent": true,
+        "permanentWaterQuality": 600,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "fresh_water"
+        ],
+        "features": [
+            "bbq",
+            "shops_nearby",
+            "toilet_block",
+            "shower",
+            "boat_ramp",
+            "playground",
+            "changing_facilities",
+            "parking",
+            "public_transport",
+            "recycling_facilities"
+        ],
+        "region": "hauraki",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433585,
+        "name": "Wairau Outlet",
+        "lat": -36.76426334653982,
+        "lng": 174.7672942908249,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [],
+        "region": "northshore",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433586,
+        "name": "Muriwai",
+        "lat": -36.8273737784118,
+        "lng": 174.42482445346923,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "sls_only"
+        ],
+        "features": [],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433587,
+        "name": "Karioitahi Beach",
+        "lat": -37.284083433004575,
+        "lng": 174.6551196784187,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "sls_only"
+        ],
+        "features": [
+            "parking",
+            "toilet_block",
+            "picnic_area"
+        ],
+        "region": "west",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 9433588,
+        "name": "Pakiri Beach",
+        "lat": -36.242540419644065,
+        "lng": 174.72631519149434,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [
+            "sls_only"
+        ],
+        "features": [],
+        "region": "whangaparoa",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 11308974,
+        "name": "Torkar Bay",
+        "lat": -37.140814460397706,
+        "lng": 174.68892132713464,
+        "isPermanent": false,
+        "permanentWaterQuality": null,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": 366.746183,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [
+            "boat_ramp",
+            "parking",
+            "picnic_area",
+            "playground",
+            "toilet_block"
+        ],
+        "region": "southmanukau",
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    },
+    {
+        "id": 5242842842660864,
+        "name": "Oakley Creek",
+        "lat": -36.88213935571574,
+        "lng": 174.7031724473602,
+        "isPermanent": true,
+        "permanentWaterQuality": 280,
+        "unavailable": false,
+        "currentWaterQuality": {
+            "value": null,
+            "recordedAt": null
+        },
+        "tags": [],
+        "features": [],
+        "region": null,
+        "slsPatrolHours": null,
+        "slspatrolled": false
+    }
+]
