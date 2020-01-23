@@ -5,10 +5,8 @@ import {
 import { useSelector, useDispatch } from 'react-redux';
 import { Marker } from 'react-native-maps';
 import MapView from '@bam.tech/react-native-component-map-clustering';
-import getMarkerInfo from '../../utils/getMarkerInfo';
-import getWaterQualityIcon from '../../utils/getWaterQualityIcon';
+import { generateMarkers } from '../../redux/actions/mapMarkers';
 import { getLocations, getAlerts } from '../../redux/actions/data';
-import locations from '../../redux/reducers/locations';
 
 const styles = StyleSheet.create({
   container: {
@@ -26,13 +24,28 @@ const styles = StyleSheet.create({
 function Main() {
   const dispatch = useDispatch();
   // const [region, setRegion] = useState(null);
-  const loadingState = useSelector((state) => state.loadingState);
+  const {
+    loadingLocations,
+    loadingAlerts,
+    loadingMapMarkers
+  } = useSelector((state) => state.loadingState);
   const locationsState = useSelector((state) => state.locationsState);
+  const alertsState = useSelector((state) => state.alertsState);
+  const mapMarkersState = useSelector((state) => state.mapMarkersState);
+
+  const [reload, setReload] = useState(false);
 
   useEffect(() => {
     dispatch(getLocations());
     dispatch(getAlerts());
-  }, []);
+  }, [reload]);
+
+  useEffect(() => {
+    if (alertsState !== null
+      && locationsState !== null) {
+      dispatch(generateMarkers(alertsState, locationsState));
+    }
+  }, [alertsState, locationsState]);
 
   return (
     <>
@@ -50,21 +63,20 @@ function Main() {
         showsTraffic={false}
         paddingAdjustmentBehavior="automatic"
       >
-        {/* {(!loadingState.loadingLocations && locationsState) && locationsState.map(({ location }) => {
-          const latlng = { latitude: location.lat, longitude: location.lng };
-          return (
-            <Marker
-              key={JSON.stringify(location)}
-              id={location.id}
-              coordinate={latlng}
-              title={location.name}
-            >
-              <View>
-                <Image source={location.mapMaker} />
-              </View>
-            </Marker>
-          );
-        })} */}
+        {(!loadingMapMarkers && mapMarkersState)
+         && Object.entries(mapMarkersState)
+           .map(([key, mapMarker]) => (
+             <Marker
+               key={JSON.stringify(mapMarker)}
+               id={key}
+               coordinate={mapMarker.latlng}
+               title={mapMarker.title}
+             >
+               <View>
+                 <Image source={mapMarker.mapMarker} />
+               </View>
+             </Marker>
+           ))}
       </MapView>
     </>
   );
