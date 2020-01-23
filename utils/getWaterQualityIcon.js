@@ -14,16 +14,16 @@ export default function getIcon(data) {
     isPermanent,
     waterQualityLevel,
     hasHazardAlert,
-    isNoSwimmingAlert
+    hasNoSwimingAlert
   } = data;
-  console.log(name,
-    waterQualityLevel,
-    hasHazardAlert,
-    isNoSwimmingAlert);
+  // console.log(name,
+  //   waterQualityLevel,
+  //   hasHazardAlert,
+  //   hasNoSwimingAlert);
 
   if (hasHazardAlert) {
     console.log('noSwim');
-    if (isNoSwimmingAlert) return darkSwimingPin;
+    if (hasNoSwimingAlert) return darkSwimingPin;
     console.log('hazard alert');
     return hazardPin;
   }

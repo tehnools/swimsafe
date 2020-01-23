@@ -64,27 +64,23 @@ export default function getMarkerInfo({
     });
   }
 
-  if (isPermanent) {
-    waterQualityValue = permanentWaterQuality;
-  }
-
+  if (isPermanent) waterQualityValue = permanentWaterQuality;
   let waterQualityLevel;
-  if (waterQualityAlerts) {
-    console.log(name, 'by alert');
-
+  if (tags.length !== 0) {
+    waterQualityLevel = getQualityByTag(waterQualityValue, tags);
+  }
+  if (defaultWaterQualityLevel !== undefined) waterQualityLevel = GetWaterQualityLevel(defaultWaterQualityLevel);
+  if (isPermanent && permanentWaterQuality >= 280) waterQualityLevel = 2;
+  if (tags.find((tag) => tag === 'sls_only')) waterQualityLevel = 0;
+  if (waterQualityAlerts.length !== 0) {
     waterQualityLevel = waterQualityViaAlerts(
       waterQualityAlerts,
       tags
     );
-  } else {
-    console.log(name, 'by tag');
-
-    waterQualityLevel = getQualityByTag(waterQualityValue, tags);
   }
-  console.log('1', name, waterQualityLevel);
 
-  if (defaultWaterQualityLevel !== undefined) waterQualityLevel = defaultWaterQualityLevel;
-  if (isPermanent && permanentWaterQuality >= 280) waterQualityLevel = 2;
+  console.log(name, waterQualityLevel);
+
 
   return ({
     name,
