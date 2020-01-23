@@ -59,6 +59,8 @@ function Main() {
         }}
         clustering
         // onRegionChange={onRegionChange}
+        minZoomLevel={10}
+        maxZoomLevel={17}
         showsBuildings={false}
         showsTraffic={false}
         paddingAdjustmentBehavior="automatic"
