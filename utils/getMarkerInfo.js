@@ -37,19 +37,24 @@ export function waterQualityViaAlerts(alerts, locationId) {
   return null;
 }
 
-export default function getMarkerInfo(data) {
-  const {
-    location,
-    defaultWaterQualityLevel,
-    waterQualityAlerts,
-    hasNoSwimingAlert,
-    hasHazardAlert
-  } = data;
+export default function getMarkerInfo({
+  location: {
+    name,
+    isPermanent,
+    forecast,
+    tags,
+    currentWaterQuality,
+    permanentWaterQuality
+  },
+  defaultWaterQualityLevel,
+  waterQualityAlerts,
+  hasNoSwimingAlert,
+  hasHazardAlert
+}) {
   let waterQualityValue = null;
-  const { currentWaterQuality, forecast } = location;
   if (currentWaterQuality) {
     waterQualityValue = currentWaterQuality.value;
-  } else if (location.forecast) {
+  } else if (forecast) {
     const todayForecast = forecast.today.water;
     const now = moment.tz(timeZone);
     Object.keys(todayForecast).forEach((key) => {
@@ -59,21 +64,31 @@ export default function getMarkerInfo(data) {
     });
   }
 
-  let waterQualityLevel;
-  if (waterQualityAlerts) {
-    waterQualityLevel = waterQualityViaAlerts(
-      waterQualityAlerts,
-      location.tags
-    );
-  } else {
-    waterQualityLevel = getQualityByTag(waterQualityValue, location.tags);
+  if (isPermanent) {
+    waterQualityValue = permanentWaterQuality;
   }
 
+  let waterQualityLevel;
+  if (waterQualityAlerts) {
+    console.log(name, 'by alert');
+
+    waterQualityLevel = waterQualityViaAlerts(
+      waterQualityAlerts,
+      tags
+    );
+  } else {
+    console.log(name, 'by tag');
+
+    waterQualityLevel = getQualityByTag(waterQualityValue, tags);
+  }
+  console.log('1', name, waterQualityLevel);
+
   if (defaultWaterQualityLevel !== undefined) waterQualityLevel = defaultWaterQualityLevel;
-  if (location.isPermanent && location.permanentWaterQuality >= 280) waterQualityLevel = 2;
+  if (isPermanent && permanentWaterQuality >= 280) waterQualityLevel = 2;
 
   return ({
-    location,
+    name,
+    isPermanent,
     waterQualityLevel,
     hasHazardAlert,
     hasNoSwimingAlert

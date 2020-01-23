@@ -10,11 +10,17 @@ import {
 
 export default function getIcon(data) {
   const {
-    location,
+    name,
+    isPermanent,
     waterQualityLevel,
     hasHazardAlert,
     isNoSwimmingAlert
   } = data;
+  console.log(name,
+    waterQualityLevel,
+    hasHazardAlert,
+    isNoSwimmingAlert);
+
   if (hasHazardAlert) {
     console.log('noSwim');
     if (isNoSwimmingAlert) return darkSwimingPin;
@@ -27,7 +33,7 @@ export default function getIcon(data) {
       return safePin;
     case CAUTION:
       console.log('unsafe');
-      if (location.isPermanent) return darkSwimingPin;
+      if (isPermanent) return darkSwimingPin;
       return unsafePin;
     case ALERT:
       console.log('dark');
