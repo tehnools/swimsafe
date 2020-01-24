@@ -25,8 +25,6 @@ function Main() {
   const dispatch = useDispatch();
   // const [region, setRegion] = useState(null);
   const {
-    loadingLocations,
-    loadingAlerts,
     loadingMapMarkers
   } = useSelector((state) => state.loadingState);
   const locationsState = useSelector((state) => state.locationsState);

@@ -63,12 +63,9 @@ export default function getMarkerInfo({
       }
     });
   }
-
   if (isPermanent) waterQualityValue = permanentWaterQuality;
   let waterQualityLevel;
-  if (tags.length !== 0) {
-    waterQualityLevel = getQualityByTag(waterQualityValue, tags);
-  }
+  if (tags.length !== 0) waterQualityLevel = getQualityByTag(waterQualityValue, tags);
   if (defaultWaterQualityLevel !== undefined) waterQualityLevel = GetWaterQualityLevel(defaultWaterQualityLevel);
   if (isPermanent && permanentWaterQuality >= 280) waterQualityLevel = 2;
   if (tags.find((tag) => tag === 'sls_only')) waterQualityLevel = 0;
