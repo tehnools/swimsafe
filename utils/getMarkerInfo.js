@@ -78,10 +78,6 @@ export default function getMarkerInfo({
       tags
     );
   }
-
-  console.log(name, waterQualityLevel);
-
-
   return ({
     name,
     isPermanent,

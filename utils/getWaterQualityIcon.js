@@ -10,36 +10,24 @@ import {
 
 export default function getIcon(data) {
   const {
-    name,
     isPermanent,
     waterQualityLevel,
     hasHazardAlert,
     hasNoSwimingAlert
   } = data;
-  // console.log(name,
-  //   waterQualityLevel,
-  //   hasHazardAlert,
-  //   hasNoSwimingAlert);
-
   if (hasHazardAlert) {
-    console.log('noSwim');
     if (hasNoSwimingAlert) return darkSwimingPin;
-    console.log('hazard alert');
     return hazardPin;
   }
   switch (waterQualityLevel) {
     case GOOD:
-      console.log('safe');
       return safePin;
     case CAUTION:
-      console.log('unsafe');
       if (isPermanent) return darkSwimingPin;
       return unsafePin;
     case ALERT:
-      console.log('dark');
-      return darkPin; // dark pin
+      return darkPin;
     default:
-      console.log('undefied');
       return undefinedPin;
   }
 }
