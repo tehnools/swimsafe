@@ -9,6 +9,8 @@
       "android",
       "web"
     ],
+    "author": "Noel Soong",
+    "description": "SwimSafe is an unoffical port of the SafeSwim App by Auckland Town Council",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
