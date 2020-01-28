@@ -51,7 +51,8 @@ export default function getMarkerInfo({
   hasNoSwimingAlert,
   hasHazardAlert
 }) {
-  let waterQualityValue = null;
+  let waterQualityValue;
+  let waterQualityLevel;
   if (currentWaterQuality) {
     waterQualityValue = currentWaterQuality.value;
   } else if (forecast) {
@@ -64,7 +65,6 @@ export default function getMarkerInfo({
     });
   }
   if (isPermanent) waterQualityValue = permanentWaterQuality;
-  let waterQualityLevel;
   if (tags.length !== 0) waterQualityLevel = getQualityByTag(waterQualityValue, tags);
   if (defaultWaterQualityLevel !== undefined) waterQualityLevel = GetWaterQualityLevel(defaultWaterQualityLevel);
   if (isPermanent && permanentWaterQuality >= 280) waterQualityLevel = 2;
