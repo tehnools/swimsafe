@@ -14,6 +14,7 @@ import React from 'react';
 import { StyleSheet, StatusBar } from 'react-native';
 import { Provider } from 'react-redux';
 import * as Sentry from '@sentry/react-native';
+import Constants from 'expo-constants';
 import {
   ApplicationProvider,
   TopNavigation,
@@ -40,7 +41,11 @@ const MenuIcon = (props) => (
 
 Sentry.init({
   dsn: 'https://771da545272f4e9dada72a2f69569601@sentry.io/2062143',
+  enableInExpoDevelopment: true,
+  debug: true
 });
+Sentry.setRelease(Constants.manifest.revisionId);
+
 
 const MenuAction = () => <TopNavigationAction icon={MenuIcon} />;
 const store = configureStore();

@@ -35,6 +35,18 @@
         }
       },
       "package": "com.noelsoong.swimsafe"
+    },
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "noel-technologies",
+            "project": "swimsafe",
+            "authToken": "778c0b998f5c48d0b11c445e58b16edff1c8e794a8ec405aa1092bf121c8580b"
+          }
+        }
+      ]
     }
   }
 }
