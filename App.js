@@ -13,7 +13,7 @@
 import React from 'react';
 import { StyleSheet, StatusBar } from 'react-native';
 import { Provider } from 'react-redux';
-import * as Sentry from '@sentry/react-native';
+import * as Sentry from 'sentry-expo';
 import Constants from 'expo-constants';
 import {
   ApplicationProvider,

@@ -39,7 +39,7 @@
     "hooks": {
       "postPublish": [
         {
-          "file": "sentry-expo/upload-sourcemaps",
+          "file": "@sentry/react-native/upload-sourcemaps",
           "config": {
             "organization": "noel-technologies",
             "project": "swimsafe",
