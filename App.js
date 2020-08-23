@@ -30,8 +30,8 @@ import {
   light as theme,
 } from '@eva-design/eva';
 import configureStore from './redux/store';
-import ErrorBoundary from './components/ErrorBoundary';
-import Main from './screens/main/Main';
+// import ErrorBoundary from './components/ErrorBoundary.jsx'
+import Main from './src/main/Main';
 
 // import SearchBar from './components/SearchBar'
 
@@ -53,15 +53,13 @@ const App = () => (
   <Provider store={store}>
     <IconRegistry icons={EvaIconsPack} />
     <ApplicationProvider mapping={mapping} theme={theme}>
-      <ErrorBoundary>
-        <TopNavigation
-          style={styles.topNav}
-          leftControl={MenuAction()}
-        />
-        <Layout style={styles.container}>
-          <Main />
-        </Layout>
-      </ErrorBoundary>
+      <TopNavigation
+        style={styles.topNav}
+        leftControl={MenuAction()}
+      />
+      <Layout style={styles.container}>
+        <Main />
+      </Layout>
     </ApplicationProvider>
   </Provider>
 );
