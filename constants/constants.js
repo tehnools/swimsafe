@@ -5,7 +5,6 @@ export const PERMANENT_ALERTS = ['Cox’s Bay', 'Meola Reef', 'Little Oneroa Lag
 export const OVERFLOW_EVENT_ID = 5085646884438016;
 
 export const HAZARDS = {
-
   deep_water: {
     id: 'deep_water',
     label: 'Deep water',
