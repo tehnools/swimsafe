@@ -31,7 +31,7 @@ import {
 } from '@eva-design/eva';
 import configureStore from './redux/store';
 // import ErrorBoundary from './components/ErrorBoundary.jsx'
-import Main from './src/main/Main';
+import Main from './src/screens/main/Main';
 
 // import SearchBar from './components/SearchBar'
 

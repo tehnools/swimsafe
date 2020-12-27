@@ -4,9 +4,9 @@ import {
 } from 'react-native';
 import { useSelector, useDispatch } from 'react-redux';
 import MapView from '@bam.tech/react-native-component-map-clustering';
-import MapMarker from '../components/CustomMapMarker';
-import { generateMarkers } from '../../redux/actions/mapMarkers';
-import { getLocations, getAlerts } from '../../redux/actions/data';
+import MapMarker from '../../components/CustomMapMarker';
+import { generateMarkers } from '../../../redux/actions/mapMarkers';
+import { getLocations, getAlerts } from '../../../redux/actions/data';
 
 const styles = StyleSheet.create({
   container: {
